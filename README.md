@@ -1,0 +1,2 @@
+# leetcode
+以熟悉github的目的顺便管理自己的leetcode代码
